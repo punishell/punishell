@@ -3,7 +3,7 @@
 
 - :scroll: Smart Contract Auditor
 - :moneybag: Bug Bounty Hunter
-- :octocat: Ex Lead Offensive Security Engineer at hallborn
+- :octocat: Lead Security Engineer at Resonance
 - :milky_way: I’m currently working on DeFiVulnLabsCosmWasm
 
 
