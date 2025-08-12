@@ -1,9 +1,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punishell)](https://github.com/anuraghazra/github-readme-stats)
 
-- :scroll: Smart Contract Auditor
+- :scroll: Ai Security Researcher
 - :moneybag: Bug Bounty Hunter
-- :octocat: Lead Security Engineer at Resonance
+- :octocat:  Ex Smart Contract Auditor
 - :milky_way: I’m currently working on DeFiVulnLabsCosmWasm
 
 
